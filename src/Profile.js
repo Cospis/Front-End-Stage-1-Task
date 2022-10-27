@@ -1,5 +1,6 @@
-import dp from "./dp.jpeg";
+import dp from "./dp.png";
 import share from "./share.png";
+import share2 from "./share2.png";
 const Profile = () => {
   return (
     <div className="conent">
@@ -10,6 +11,9 @@ const Profile = () => {
           <h1> Qozim Idris</h1>
           <div className="share">
             <img src={share} alt="share" />
+          </div>
+          <div className="share2">
+            <img src={share2} alt="share2" />
           </div>
         </div>
       </div>

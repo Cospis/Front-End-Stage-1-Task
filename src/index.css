@@ -2,9 +2,7 @@
 *{
   font-family: 'Inter', sans-serif;
 }
-.content{
-  padding-top: 30px;
-}
+
 .profile h1{
   text-align: center;
   color: #101828;
@@ -21,6 +19,9 @@
 }
 
 .btn-twitter{
+  padding: 24px 144px;
+}
+.profile{
   padding: 24px 144px;
 }
 #twitter{
@@ -115,9 +116,12 @@
 .name .share{
   float:right;
   position: relative;
-  top: -100px;
-  right: 400px;
+  top: -170px;
+  right: 20%;
 }
+.name .share2{
+  display: none;;
+ }
 #slack{
   display: none;
 }
@@ -126,4 +130,26 @@
   .footer{
     display: block;
   }
+  .links-section{
+    padding: 12px 18px;
+  }
+  .footer{
+    padding: 12px 18px;
+  }
+  .btn-twitter {
+    padding: 12px 18px;
+ }
+ .name .share2{
+  display: block;
+  float:right;
+  position: relative;
+  top: -170px;
+  right: 20%;
+ }
+ .name .share{
+ display: none;;
+ }
+ .profile{
+  padding: 12px 18px;
+}
 }
