@@ -11,7 +11,7 @@ const Profile = () => {
         <button id="twitter">cos_pis</button>
       </div>
       <div className="hidden">
-        <button id="slack">Cospis1️⃣</button>
+        <button id="slack">Cospis</button>
       </div>
     </div>
   );

@@ -14,10 +14,11 @@
   margin-top: 24px;
  
 }
+
 .btn-twitter{
   padding: 24px 114px;
 }
-.btn-twitter #twitter{
+#twitter{
   padding:  24px 32px 24px 32px;
   width: 100%;
   font-weight: 500;
@@ -32,7 +33,18 @@
   color: #101828;
   font-size: 18px;
   line-height: 28px;
+  margin: 12px 0px;
 }
+#books{
+  padding:  24px 32px 24px 32px;
+  width: 100%;
+  font-weight: 500;
+  color: #101828;
+  font-size: 18px;
+  margin: 12px 0px;
+  line-height: 28px;
+}
+
 .links-section{
   padding: 12px 114px;
 }
