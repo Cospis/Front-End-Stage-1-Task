@@ -13,6 +13,9 @@ const Links = () => {
       >
         <button id="book__python"> Python Books</button>
       </a>
+      <a href="https://background.zuri.team" className="pitch">
+        <button id="pitch"> Background Check for Coders</button>
+      </a>
     </div>
   );
 };
