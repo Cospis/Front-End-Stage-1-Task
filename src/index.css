@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+*{
+  font-family: 'Inter', sans-serif;
+}
+
+#profile__img{
+  border-radius: 275px;
+  width: 88px;
+  height: 88px;
+}
+.dp h1{
+  color: #101828;
+  font-weight: 700;
+  margin-top: 24px;
+ 
+}
+.btn{
+  padding: 24px 114px;
+}
+.btn #twitter{
+  padding:  24px 32px 24px 32px;
+  width: 100%;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+}
+#slack{
+  display: none;
+}
+
