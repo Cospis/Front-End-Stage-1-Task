@@ -14,15 +14,27 @@
   margin-top: 24px;
  
 }
-.btn{
+.btn-twitter{
   padding: 24px 114px;
 }
-.btn #twitter{
+.btn-twitter #twitter{
   padding:  24px 32px 24px 32px;
   width: 100%;
   font-weight: 500;
+  color: #101828;
   font-size: 18px;
   line-height: 28px;
+}
+#btn__zuri{
+  padding:  24px 32px 24px 32px;
+  width: 100%;
+  font-weight: 500;
+  color: #101828;
+  font-size: 18px;
+  line-height: 28px;
+}
+.links-section{
+  padding: 12px 114px;
 }
 #slack{
   display: none;

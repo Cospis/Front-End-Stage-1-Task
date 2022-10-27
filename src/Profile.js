@@ -7,7 +7,7 @@ const Profile = () => {
         {" "}
         <h1> Qozim Idris</h1>
       </div>
-      <div className="btn">
+      <div className="btn-twitter">
         <button id="twitter">cos_pis</button>
       </div>
       <div className="hidden">
