@@ -7,6 +7,12 @@ const Links = () => {
       <a href="http://books.zuri.team" className="books">
         <button id="books"> Zuri Books</button>
       </a>
+      <a
+        href="https://books.zuri.team/python-for-beginners?ref_id=Cospis"
+        className="book__python"
+      >
+        <button id="book__python"> Python Books</button>
+      </a>
     </div>
   );
 };
