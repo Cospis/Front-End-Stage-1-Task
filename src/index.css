@@ -16,7 +16,7 @@
 }
 
 .btn-twitter{
-  padding: 24px 114px;
+  padding: 24px 144px;
 }
 #twitter{
   padding:  24px 32px 24px 32px;
@@ -31,6 +31,7 @@
   width: 100%;
   font-weight: 500;
   color: #101828;
+  height: 76px;
   font-size: 18px;
   line-height: 28px;
   margin: 12px 0px;
@@ -39,6 +40,7 @@
   padding:  24px 32px 24px 32px;
   width: 100%;
   font-weight: 500;
+  height: 76px;
   color: #101828;
   font-size: 18px;
   margin: 12px 0px;
@@ -49,6 +51,7 @@
   width: 100%;
   font-weight: 500;
   color: #101828;
+  height: 76px;
   font-size: 18px;
   margin: 12px 0px;
   line-height: 28px;
@@ -56,6 +59,7 @@
 #pitch{
   padding:  24px 32px 24px 32px;
   width: 100%;
+  height: 76px;
   font-weight: 500;
   color: #101828;
   font-size: 18px;
@@ -66,13 +70,32 @@
   padding:  24px 32px 24px 32px;
   width: 100%;
   font-weight: 500;
+  height: 76px;
   color: #101828;
   font-size: 18px;
   margin: 12px 0px;
   line-height: 28px;
 }
+#social_section{
+  padding:  24px 32px 24px 32px;
+  width: 100%;
+  height: 72px;
+  font-weight: 500;
+  color: #101828;
+  font-size: 18px;
+  margin: 12px 0px;
+  line-height: 28px;
+  border: none;
+  background-color: white;
+}
+#social_section img{
+  margin: 0px 12px;
+}
 .links-section{
-  padding: 12px 114px;
+  padding: 12px 144px;
+}
+.social-section{
+  margin: 0px 112px;
 }
 #slack{
   display: none;
