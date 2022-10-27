@@ -16,6 +16,9 @@ const Links = () => {
       <a href="https://background.zuri.team" className="pitch">
         <button id="pitch"> Background Check for Coders</button>
       </a>
+      <a href="https://books.zuri.team/design-rules " className="book__design">
+        <button id="book__design"> Design Books</button>
+      </a>
     </div>
   );
 };
