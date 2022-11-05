@@ -1,9 +1,9 @@
 const Forms = () => {
-  const name = "Idris";
+  const name = "idrisqozim";
   return (
     <div className="forms">
       <form>
-        <div className="name">
+        <div className="details-name">
           <div className="firstname">
             <label>First Name </label>
             <input placeholder="Enter your first name" id="first_name" />
@@ -21,19 +21,21 @@ const Forms = () => {
           <label>Message</label>
           <textarea
             placeholder="Send a message and I'll reply you as soon as possible"
-            id="email"
+            id="message"
           />
         </div>
         <div className="chk">
-          <input type="checkbox" id="email" />
+          <input type="checkbox" id="chk" />
           <label>
             {" "}
             You agree to providing your data to {name} who may contact you.
           </label>
         </div>
-        <button type="submit" id="btn__submit">
-          Send Message
-        </button>
+        <div className="submit">
+          <button type="submit" id="btn__submit">
+            Send Message
+          </button>
+        </div>
       </form>
     </div>
   );
