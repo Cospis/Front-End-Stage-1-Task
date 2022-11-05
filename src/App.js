@@ -1,14 +1,8 @@
-import Links from "./Links";
-import Profile from "./Profile";
-import SocialSection from "./SocialSection";
-import Footer from "./Footer";
+import Home from "./Home";
 function App() {
   return (
     <div className="content">
-      <Profile />
-      <Links />
-      <SocialSection />
-      <Footer />
+      <Home />
     </div>
   );
 }
