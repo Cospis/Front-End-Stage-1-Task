@@ -139,8 +139,9 @@ label{
   height: 44px;
   border-radius: 8px;
   margin-bottom: 24px;
-  width: 145%;
+  width: 140%;
   box-sizing: border-box;
+  border: grey 1px solid;
 }
 
 .footer{
@@ -188,6 +189,7 @@ line-height: 44px;
   width: 100%;
   box-sizing: border-box;
   padding: 10px 14px;
+  border: grey 1px solid;
 }
 #message{
   border-radius: 8px;
@@ -195,6 +197,7 @@ line-height: 44px;
   width: 100%;
   box-sizing: border-box;
   height: 132px;  
+  border: grey 1px solid;
 }
 .submit{
   margin-top: 32px;
@@ -208,6 +211,7 @@ line-height: 44px;
   color: white;
   background-color: #1570EF;
   border-radius: 8px;
+  border: #1570EF 1px solid;
 }
 .chk{
   display: flex;
