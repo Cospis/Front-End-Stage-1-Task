@@ -132,16 +132,15 @@ label{
 }
 .details-name{
   display: flex;
-  justify-content: space-between;
-  gap: 24px;
   width: 100%;
+  column-gap: 120px;
 }
 #first_name, #last_name{
-height: 44px;
-border-radius: 8px;
-margin-bottom: 24px;
-width: 100%;
-box-sizing: border-box;
+  height: 44px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  width: 145%;
+  box-sizing: border-box;
 }
 
 .footer{
@@ -154,6 +153,7 @@ box-sizing: border-box;
 
 .contactus{
   margin: 24px 360px;
+  /* width: 100%; */
 }
 .contactus h1{
 font-weight: 600 ;
@@ -239,7 +239,9 @@ line-height: 44px;
  .profile{
   padding: 12px 18px;
 }
-
+#first_name, #last_name{
+  width: 100%;
+}
 .contactus{
   margin: 64px 16px;
 }
