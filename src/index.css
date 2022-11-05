@@ -133,13 +133,14 @@ label{
 .details-name{
   display: flex;
   width: 90%;
-  column-gap: 120px;
+
+  column-gap: 200px;
 }
 #first_name, #last_name{
   height: 44px;
   border-radius: 8px;
   margin-bottom: 24px;
-  width: 110%;
+  width: 135%;
   box-sizing: border-box;
   border: grey 1px solid;
   padding: 12px 14px;
