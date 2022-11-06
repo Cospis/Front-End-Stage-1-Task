@@ -187,14 +187,15 @@ line-height: 44px;
   border-radius: 8px;
   margin-bottom: 24px;
   box-sizing: border-box;
-  padding: 10px 140px;
+  padding: 10px 180px;
   border: grey 1px solid;
 }
 #message{
   border-radius: 8px;
-  padding: 12px 140px;
+  padding: 12px 180px;
   box-sizing: border-box;
   border: grey 1px solid;
+  height: 64px
 }
 .submit{
   margin-top: 32px;
