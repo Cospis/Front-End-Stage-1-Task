@@ -19,9 +19,9 @@ const Links = () => {
       <a href="https://books.zuri.team/design-rules " className="book__design">
         <button id="book__design"> Design Books</button>
       </a>
-    <button>  <a href="/contact" className="contact"  id="contact">
-  Contact me
-      </a></button>
+    <a href="/contact" className="contact"  id="contact">  <button>  
+  Contact me  </button>  
+      </a>
     </div>
   );
 };
