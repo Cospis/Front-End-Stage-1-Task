@@ -187,12 +187,12 @@ line-height: 44px;
   border-radius: 8px;
   margin-bottom: 24px;
   box-sizing: border-box;
-  padding: 10px 100px;
+  padding: 10px 140px;
   border: grey 1px solid;
 }
 #message{
   border-radius: 8px;
-  padding: 12px 100px;
+  padding: 12px 140px;
   box-sizing: border-box;
   border: grey 1px solid;
 }
