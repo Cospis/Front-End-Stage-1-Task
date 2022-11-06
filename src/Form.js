@@ -1,5 +1,5 @@
 const Forms = () => {
-  const name = "idrisqozim";
+  const name = "Cospis";
   return (
     <div className="forms">
       <form>
