@@ -135,17 +135,14 @@ label{
 .details-name{
   display: flex;
   width: 100%;
-justify-content:space-between;
-
+  column-gap: 24px;
 }
 #first_name, #last_name{
-  height: 44px;
   border-radius: 8px;
   margin-bottom: 24px;
-  width: 100%;
   box-sizing: border-box;
   border: grey 1px solid;
-  padding: 12px 14px;
+  padding: 10px 30px;
 }
 
 .footer{
