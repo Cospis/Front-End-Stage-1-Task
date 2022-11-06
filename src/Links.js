@@ -20,7 +20,7 @@ const Links = () => {
         <button id="book__design"> Design Books</button>
       </a>
      <a href="/contact" className="contact"  id="contact">
-        <button id="contact"> Contact me</button>
+        <button id="contact"> Contact Me</button>
      
       </a>
     </div>
