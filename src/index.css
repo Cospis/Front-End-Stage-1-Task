@@ -185,19 +185,15 @@ line-height: 44px;
 }
 #email{
   border-radius: 8px;
-  height: 44px;
   margin-bottom: 24px;
-  width: 100%;
   box-sizing: border-box;
-  padding: 10px 14px;
+  padding: 10px 100px;
   border: grey 1px solid;
 }
 #message{
   border-radius: 8px;
-  padding: 12px 14px;
-  width: 100%;
+  padding: 12px 100px;
   box-sizing: border-box;
-  height: 132px;  
   border: grey 1px solid;
 }
 .submit{
